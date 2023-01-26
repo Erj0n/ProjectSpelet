@@ -27,13 +27,13 @@ namespace TärningSpel
                 Console.ReadKey();
 
                 spelareNum = random.Next(1, 16);
-                Console.WriteLine(" Du slog en " + spelareNum);
+                Console.WriteLine(" Du slog " + spelareNum);
 
                 Console.WriteLine("...");
                 System.Threading.Thread.Sleep(1000);
 
                 fiendeNum = random.Next(1, 16);
-                Console.WriteLine(" Fienden slog träning " + fiendeNum);
+                Console.WriteLine(" Fienden slog " + fiendeNum);
 
                 // sedan skapar vi en if statement där en av spelarna som får högst nummer vinner rundan eller om slaget är lika så blir rundan oavgjort
                 if (spelareNum > fiendeNum)
