@@ -4,7 +4,7 @@
 
 2. ladda sedan ner repositoryn och dra ut filen från Zip filen i ditt skrivbord/desktop namnet på filen som ska finnas i zipen heter då "ProjectSpelet-main"
 
-3. Öppna sedan i visual studio ett nytt projekt och välj sedan öppna en befintilg map/ open a local folder på engelska
+3. Öppna sedan i visual studio ett nytt projekt och välj sedan öppna en befintlig map/ open a local folder på engelska
 
 4. Välj sedan mappen "projectSpelet-main"
 
