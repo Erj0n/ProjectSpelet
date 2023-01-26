@@ -1,0 +1,15 @@
+C:\Users\Other User\Desktop\ProjectSpelet\ProjectSpelet\ProjectSpelet\bin\Debug\net7.0\ProjectSpelet.exe
+C:\Users\Other User\Desktop\ProjectSpelet\ProjectSpelet\ProjectSpelet\bin\Debug\net7.0\ProjectSpelet.deps.json
+C:\Users\Other User\Desktop\ProjectSpelet\ProjectSpelet\ProjectSpelet\bin\Debug\net7.0\ProjectSpelet.runtimeconfig.json
+C:\Users\Other User\Desktop\ProjectSpelet\ProjectSpelet\ProjectSpelet\bin\Debug\net7.0\ProjectSpelet.dll
+C:\Users\Other User\Desktop\ProjectSpelet\ProjectSpelet\ProjectSpelet\bin\Debug\net7.0\ProjectSpelet.pdb
+C:\Users\Other User\Desktop\ProjectSpelet\ProjectSpelet\ProjectSpelet\obj\Debug\net7.0\ProjectSpelet.csproj.AssemblyReference.cache
+C:\Users\Other User\Desktop\ProjectSpelet\ProjectSpelet\ProjectSpelet\obj\Debug\net7.0\ProjectSpelet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Other User\Desktop\ProjectSpelet\ProjectSpelet\ProjectSpelet\obj\Debug\net7.0\ProjectSpelet.AssemblyInfoInputs.cache
+C:\Users\Other User\Desktop\ProjectSpelet\ProjectSpelet\ProjectSpelet\obj\Debug\net7.0\ProjectSpelet.AssemblyInfo.cs
+C:\Users\Other User\Desktop\ProjectSpelet\ProjectSpelet\ProjectSpelet\obj\Debug\net7.0\ProjectSpelet.csproj.CoreCompileInputs.cache
+C:\Users\Other User\Desktop\ProjectSpelet\ProjectSpelet\ProjectSpelet\obj\Debug\net7.0\ProjectSpelet.dll
+C:\Users\Other User\Desktop\ProjectSpelet\ProjectSpelet\ProjectSpelet\obj\Debug\net7.0\refint\ProjectSpelet.dll
+C:\Users\Other User\Desktop\ProjectSpelet\ProjectSpelet\ProjectSpelet\obj\Debug\net7.0\ProjectSpelet.pdb
+C:\Users\Other User\Desktop\ProjectSpelet\ProjectSpelet\ProjectSpelet\obj\Debug\net7.0\ProjectSpelet.genruntimeconfig.cache
+C:\Users\Other User\Desktop\ProjectSpelet\ProjectSpelet\ProjectSpelet\obj\Debug\net7.0\ref\ProjectSpelet.dll
