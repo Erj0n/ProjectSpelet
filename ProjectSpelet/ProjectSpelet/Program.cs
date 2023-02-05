@@ -75,4 +75,4 @@ namespace TärningSpel
     }
 }
 
-//skapare Erjon Merovci!
+//skapare Erjon Merovci och Ali Altaei
